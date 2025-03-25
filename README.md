@@ -3,7 +3,7 @@
 🌱 &nbsp;I'm on track for learning more about Robotics, Autonomous System and Space robotics.\
 ✍️ &nbsp;In my free time, I play rugby, read, or I'm somewhere walinkg lost in my thoughts.\
 ✉️ &nbsp;You can email me at eneapassardi@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/abhishek-singh-dhadwal/) for more details about work experience.
+📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/enea-passardi/) for more details about work experience.
 
 
 ### 🛠 &nbsp;Tech Stack
